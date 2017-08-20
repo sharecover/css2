@@ -147,7 +147,6 @@ transition: all .3s;
     font-size: 11px;
     text-transform: uppercase;
     color: #f7f7f7;
-    font-weight: bold;
     white-space: nowrap;
 }
 .sora-product-detail .sora-pro-info .sora-product-buy-box .sora-product-buy-buttons .item_add i, .sora-product-detail .sora-pro-info .sora-product-buy-box .sora-product-buy-buttons .sora-cart-view i, .sora-product-detail .sora-pro-info .sora-product-buy-box .sora-product-buy-buttons .sora-cart-payment i {

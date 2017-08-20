@@ -136,6 +136,11 @@ background: #fff;
 font-size:20px;
 color: #000;
 }
+
+.sora_product_item_price .sora-product-price-text {
+    color: #fa5555;
+    padding: 0 5px 0 0;
+}
 .sora-product-detail .sora-pro-info .sora-product-buy-box .sora-product-buy-buttons .item_add,
 .sora-product-detail .sora-pro-info .sora-product-buy-box .sora-product-buy-buttons .sora-cart-view,
 .sora-product-detail .sora-pro-info .sora-product-buy-box .sora-product-buy-buttons .sora-cart-payment {
